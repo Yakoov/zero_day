@@ -1,2 +1,1 @@
-This is me using git on desktop to code
-So cool
+I am getting a old of this git for desktop
